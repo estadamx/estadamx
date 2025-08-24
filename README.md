@@ -68,7 +68,6 @@ _Machine_
 
 _LLMs_
 
-
 <br>
 <p>
   <img align="left" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white">
