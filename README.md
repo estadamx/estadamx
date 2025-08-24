@@ -112,6 +112,16 @@ Search Engine Optimisation with quadruple digit growth.
 </p>
 <br>
 
+
+### Messaging
+More than just connections.
+
+<p>
+  <img align="left" alt="WhatsApp API" src="https://img.shields.io/badge/WhatsApp_API-25D366?style=plastic&logo=whatsapp&logoColor=white">
+</p>
+<br>
+
+
 ### Hobbies
 All work and no play makes Jack a dull boy.
 <p>  
