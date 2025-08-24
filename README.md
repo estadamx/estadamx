@@ -77,7 +77,7 @@ _LLMs_
 
 
 ### Frameworks
-Precision joinery kit—quietly powerful
+Precision joinery kit—quietly powerful.
 
 <p>
   <img align="left" alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=plastic&logo=rubyonrails&logoColor=white">
