@@ -96,6 +96,6 @@ All work and no play makes Jack a dull boy.
 <p>  
   <img align="left" alt="Cooking" src="https://img.shields.io/badge/Cooking-D94F30?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTguMDYgMjNoMS42NmMuODQgMCAxLjUzLS42NSAxLjYzLTEuNDdMMjMgNS4wNWgtNVYxaC0xLjk3djQuMDVoLTQuOTdsLjMgMi4zNGMxLjcxLjQ3IDMuMzEgMS4zMiA0LjI3IDIuMjZjMS40NCAxLjQyIDIuNDMgMi44OSAyLjQzIDUuMjlWMjNNMSAyMnYtMWgxNS4wM3YxYzAgLjU0LS40NSAxLTEuMDMgMUgyYy0uNTUgMC0xLS40Ni0xLTFtMTUuMDMtN0MxNi4wMyA3IDEgNyAxIDE1aDE1LjAzTTEgMTdoMTV2Mkgxdi0yWiIvPjwvc3ZnPg==">
 </p>
-
+<br>
 
 ### Cheers
