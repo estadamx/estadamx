@@ -42,7 +42,7 @@ To connect with me:
 🤖 Started coding in 2005 with some Delphi projects. 🎓 Studied auditing. 💵 I build administrative foundations that scale businesses from R2m to R250m. 🌍 Coding for the web since 2013 creating cloud based apps that handle 🛒 Point of Sale, ⚠️ Quality Control, 🧮 Accounting, 🧑‍💼 HR, and 🧾 Payroll.
 
 ### Community & Advocacy
-Co-founder of the Gay Flag of South Africa Non Profit Company — a legacy project rooted in visibility, dignity, and systemic change. This work continues to inform my approach to inclusive design, ethical governance, and the honour basis that underpins openHR.
+Co-founder of the Gay Flag of South Africa Non Profit Company — a legacy project rooted in visibility, dignity, and systemic change. The Gay Flag of South Africa, designed by Eugene Brockman, is the first gay flag in the world to receive official national recognition. This work continues to inform my approach to inclusive design, ethical governance, and the honour basis that underpins openHR.
 
 ### Languages
 _Human_
