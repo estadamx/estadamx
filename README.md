@@ -13,17 +13,17 @@ require 'ostruct'
 
 module AJ
   Profile = OpenStruct.new(
-    code: %w[ruby python html css javascript],
-    frameworks: %w[ruby_on_rails bootstrap materialize_css stimulus turbo hotwire],
-    tools: %w[yarn npm visual_studio_code copilot],
-    platforms: %w[digitalocean google_cloud spaceship aws azure ubuntu centos_rip],
-    services: %w[redis sidekiq solid_queue solid_cable],
-    llms: %w[openai xai],
-    ux_design: %w[reactive lightweight accessible],
-    seo: %w[google_search bing],
-    messaging: %w[whatsapp_api],
-    affiliations: %w[openhr gay_flag_of_south_africa]
-  )
+    code: [:ruby, :python, :html, :css, :javascript],
+    frameworks: [:ruby_on_rails, :bootstrap, :materialize_css, :stimulus, :turbo, :hotwire],
+    tools: [:yarn, :npm, :visual_studio_code, :copilot],
+    platforms: [:digitalocean, :google_cloud, :spaceship, :aws, :azure, :ubuntu, :centos_rip],
+    services: [:redis, :sidekiq, :solid_queue, :solid_cable],
+    llms: [:openai, :xai],
+    ux_design: [:reactive, :lightweight, :accessible],
+    seo: [:google_search, :bing],
+    messaging: [:whatsapp_api],
+    affiliations: [:openhr, :gay_flag_of_south_africa]
+  ).freeze
 end
 ```
 
