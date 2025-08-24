@@ -5,21 +5,26 @@ Welcome to my public profile where I will be adding some code to make Ruby on Ra
 
 <br>
 
-### Profile.rb
+### Profile
 ```ruby
-aj = {
-  code: %w[Ruby Python HTML CSS JavaScript],
-  frameworks: %w[Ruby_on_Rails Bootstrap Materialize_CSS Stimulus Turbo Hotwire],
-  tools: %w[Yarn NPM Visual_Studio_Code Copilot],
-  platforms: %w[DigitalOcean Google_Cloud Spaceship AWS Azure Ubuntu CentOS(RIP)],
-  services: %w[Redis Sidekiq Solid_Queue Solid_Cable],
-  llms: %w[OpenAI xAI],
-  ux_design: %w[reactive lightweight accessible],
-  seo: %w[Google_Search Bing],
-  messaging: %w[WhatsApp_API],
-  affiliations: %w[openHR Gay_Flag_of_South_Africa]
-}
+# lib/aj.rb
 
+require 'ostruct'
+
+module AJ
+  Profile = OpenStruct.new(
+    code: %w[ruby python html css javascript],
+    frameworks: %w[ruby_on_rails bootstrap materialize_css stimulus turbo hotwire],
+    tools: %w[yarn npm visual_studio_code copilot],
+    platforms: %w[digitalocean google_cloud spaceship aws azure ubuntu centos_rip],
+    services: %w[redis sidekiq solid_queue solid_cable],
+    llms: %w[openai xai],
+    ux_design: %w[reactive lightweight accessible],
+    seo: %w[google_search bing],
+    messaging: %w[whatsapp_api],
+    affiliations: %w[openhr gay_flag_of_south_africa]
+  )
+end
 ```
 
 ### Contact
@@ -77,7 +82,7 @@ _LLMs_
 <br>
 
 
-### Frameworks
+### AJ::Profile.frameworks
 Precision joinery kit—quietly powerful.
 
 <p>
@@ -89,7 +94,7 @@ Precision joinery kit—quietly powerful.
 </p>
 <br>
 
-### Platforms
+### AJ::Profile.platforms
 Dealt with the superpowers. Now building with the underdogs.
 <br>
 <p>
@@ -104,7 +109,7 @@ Dealt with the superpowers. Now building with the underdogs.
 <br>
 
 
-### SEO
+### AJ::Profile.seo
 Search Engine Optimisation with quadruple-digit growth. 
 
 <p>
@@ -114,7 +119,7 @@ Search Engine Optimisation with quadruple-digit growth.
 <br>
 
 
-### Messaging
+### AJ::Profile.messaging
 More than just connections.
 
 <p>
