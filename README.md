@@ -1,7 +1,7 @@
 <img align='right' src="https://www.openhr.co.za/openHR_Logo_Full_High_Resolution.png" width="200">
 
-<h2> Welcome, AJ here </h2>
-This is my public profile where I will be adding some code to make Rubby on Rails and Cooking a bit easier.
+<h2> Hey, AJ here </h2>
+Welcome to my public profile where I will be adding some code to make Rubby on Rails and Cooking a bit easier.
 
 <br>
 
@@ -90,3 +90,4 @@ Dealt with the superpowers. Now building with the underdogs.
   <img align="left" alt="Azure" src="https://img.shields.io/badge/Azure-007FFF?style=plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IndoaXRlIiBkPSJNMTIuOTAzIDQuMDMyTDcgOS4xM2wtNSA5LjA2NWg0LjU0OHptLjgzOSAxLjIyNmwtMi41MTYgNy4wOTdMMTYgMTguMzg3bC05LjM1NSAxLjU4SDIyeiIvPjwvc3ZnPg==">
 </p>
 <br>
+<h2> Cheers </h2>
