@@ -16,6 +16,7 @@ aj = {
   llms: %w[OpenAI xAI],
   ux_design: %w[reactive lightweight accessible],
   seo: %w[Google_Search Bing],
+  messaging: %w[WhatsApp_API ],
   affiliations: %w[openHR Gay_Flag_of_South_Africa]
 }
 
