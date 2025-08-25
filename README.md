@@ -58,7 +58,6 @@ _Human_
   <img alt="South Africa" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f1ff-1f1e6.svg" height="32">
   <img alt="United Kingdom" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f1ec-1f1e7.svg" height="32">
   <img alt="France" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f1eb-1f1f7.svg" height="32">
-  <img alt="Brazil" src="https://s.w.org/images/core/emoji/16.0.1/svg/1f1e7-1f1f7.svg" height="32">
 </p>
 
 _Machine_
