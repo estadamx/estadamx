@@ -1,4 +1,4 @@
-<img align='right' src="https://www.openhr.co.za/openHR_Logo_Full_High_Resolution.png" width="200">
+<img align='right' src="https://www.openhr.co.za/Logo_20250924.png" width="200">
 
 <h2> Hey, AJ here </h2>
 Welcome to my public profile where I will be adding some code to make Ruby on Rails and Cooking a bit easier.
